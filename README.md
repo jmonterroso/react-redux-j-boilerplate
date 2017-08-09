@@ -1,13 +1,15 @@
-# ReduxSimpleStarter
+# React/Redux Starter / Jayson Monterroso
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Personal Redux Starter Blank project for personal projects. Simple project with no too many dependencies added.
+
+To start new projects using react/redux with very simple codes and no too many plugins added.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+Blank Projects
 
 #### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the webpack process/server with the following:
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
@@ -15,12 +17,3 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
-# react-redux-j-boilerplate
